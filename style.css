@@ -875,7 +875,7 @@ html {
 .project_section .card_items-2 .inner_right_boxx::after {
 	content: '';
 	position: absolute;
-	bottom: 3rem;
+	bottom: 2.9rem;
 	left: 15.4rem;
 	width: 0;
 	height: 0;
@@ -934,7 +934,7 @@ html {
 .project_section .card_items-2 .inner_right_boxxx::after {
 	content: '';
 	position: absolute;
-	bottom: 3rem;
+	bottom: 2.9rem;
 	left: 53.5%;
 	width: 0;
 	height: 0;
@@ -1065,7 +1065,7 @@ html {
 .project_section .card_items-3 .inner_right_boxxx::after {
 	content: '';
 	position: absolute;
-	bottom: 3rem;
+	bottom: 2.9rem;
 	left: 38.5%;
 	width: 0;
 	height: 0;
